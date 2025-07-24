@@ -1,0 +1,40 @@
+body {
+  margin: 0;
+  font-family: sans-serif;
+  background: linear-gradient(to bottom, #2e2e2e, #ff7e1a, #000);
+  color: white;
+  text-align: center;
+}
+.menu-container {
+  margin-top: 10vh;
+}
+.title {
+  color: orange;
+  font-size: 3rem;
+}
+input {
+  padding: 10px;
+  margin: 10px;
+  font-size: 1rem;
+}
+button {
+  background-color: orange;
+  color: white;
+  padding: 10px 20px;
+  font-size: 1rem;
+  border: none;
+  cursor: pointer;
+}
+.features {
+  margin-top: 20px;
+}
+.badge {
+  background-color: #444;
+  border: 1px solid orange;
+  padding: 5px 10px;
+  margin: 5px;
+  display: inline-block;
+}
+.controls {
+  margin-top: 30px;
+}
